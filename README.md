@@ -44,7 +44,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions, issues, or suggestions, please open an issue on GitHub or contact us at support@tailtales.com.
+For any questions, issues, or suggestions, please open an issue on GitHub.
 
 ---
 
